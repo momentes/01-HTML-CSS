@@ -6,8 +6,11 @@ Bootcamp Module 01 Challenge - HTML, CSS, and Git: Code Refactor
 3. Image alt may not be the best description
 4. Website ; https://momentes.github.io/Module-01-Challenge/
 5. The page should read like this
-    <image ref=/.>
+   
 
-<img src="business-cat.jpg">
+
+<img src="Images/business-cat.jpg"
+     width =100
+     style="float: left; margin-right: 10px;" />
 
 End.
