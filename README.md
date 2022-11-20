@@ -8,6 +8,6 @@ Bootcamp Module 01 Challenge - HTML, CSS, and Git: Code Refactor
 5. The page should read like this
     <image ref=/.>
 
-<img src="business-cat.jpg">
+<img src="Images/business-cat.jpg">
 
 End.
