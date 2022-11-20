@@ -36,7 +36,7 @@ header h1 {
     color: #d9dcd6;
 }
 
-header nav {
+header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -44,11 +44,11 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+header section ul {
     list-style-type: none;
 }
 
-header nav ul li {
+header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
