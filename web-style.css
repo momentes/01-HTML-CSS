@@ -103,7 +103,7 @@ article h2 {
 }
 
 
-/* No Longer In Use */
+/* Superseded Code, No Longer In Use */
 /* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -173,19 +173,10 @@ aside {
     background-color: #2589bd;
 }
 
-/*
-aside margin-space {
+.aside-section-card {
     margin-bottom: 32px;
     color: #ffffff;
 }
-*/
-
-/*
-aside layout {
-    margin-bottom: 132px;
-    color: #ffffff;
-}
-*/
 
 .aside-lead {
     margin-bottom: 32px;
@@ -251,6 +242,7 @@ aside img {
 */
 /*Aside End*/
 
+/* Footer Start */
 footer {
     padding: 30px;
     clear: both;
@@ -261,3 +253,4 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+/* Footer End */
