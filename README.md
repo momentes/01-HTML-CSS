@@ -23,23 +23,12 @@ Creator Note:
 3. Image alt may not be the best description
 4. Website ; https://momentes.github.io/Module-01-Challenge/
 5. The page should read like this
-<<<<<<< HEAD
+
    
-
-<<<<<<< HEAD
-
-<img src="Images/business-cat.jpg"
-     width =100
-     style="float: left; margin-right: 10px;" />
-=======
-<img src="Images/business-cat.jpg" width=30%>
->>>>>>> 97f4cadccb025dfc5bde3ff6149f49e6044966f6
-=======
 <img src="Images/01-html-css-git-homework-demo.png" width=35%>
 
         
 End.        
 <img src="Images/business-cat.jpg" width=15%>
 
->>>>>>> 0450286d86f45fc657f0c8a91dc8a1712d83170d
 
