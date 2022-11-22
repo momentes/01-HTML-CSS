@@ -1,7 +1,7 @@
 # Module-01-Challenge
 Bootcamp Module 01 Challenge - HTML, CSS, and Git: Code Refactor
 
-This html code is an assignemnt from the bootcamp designed as **On-the-job ticket** or **feature request Challenges**(begin with starter code to be modify to meet the acceprance criteria:) 
+This html code is an assignemnt from the bootcamp designed as **On-the-job ticket** or **feature request Challenges** (begin with starter code to be modify to meet the acceprance criteria:) 
 
 The acceptance criteria is as follow :
 - GIVEN a webpage meets accessibility standards
