@@ -17,8 +17,8 @@ The acceptance criteria is as follow :
 - THEN I find a concise, descriptive title
 
 Creator Note:
-1. Original css style is left behind and commented out
-2. Html and css semantic elements is commented in parts < Start > & < End >
+1. Original CSS style is left behind and commented out
+2. HTML semantic elements commented out in parts < Start > & < End > in CSS file
 3. Image alt may not be the best description
 4. Website ; https://momentes.github.io/Module-01-Challenge/
 5. The page should read like this ;
